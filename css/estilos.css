@@ -1,0 +1,23 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #E5E5E5;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+    text-align: left;
+    color: gray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#mi_titulo {
+    color: indianred;
+    font-size: 25px;
+    
+}
+
